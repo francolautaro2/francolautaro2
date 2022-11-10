@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @francolautaro2
 - 💻 I’m Software Developer
 - ⌨ My main programming language are Golang and Python
-- 🧠 Knowlodge: Microservices, Docker, AWS, API Rest 
+- 🧠 Knowlodge: Microservices, Docker, AWS, REST API 
+
 
 
 <!---
