@@ -3,7 +3,7 @@
 - 💻 I’m Software Developer
 - ⌨ My main programming language are Golang and Python
 - 🧠 Knowlodge: Microservices, Docker, AWS, REST API 
-- 🎓 I am current Computer Science in Argentina, Buenos Aires.
+- 🎓 I am current Computer Engineering in Argentina, Buenos Aires.
 
 #### - 😄 Contact with me: francolau03@gmail.com
 
