@@ -1,7 +1,7 @@
 ### 👋 Hi there, my name is Franco Miño and here I will tell you a little about myself
  
 - 💻 I’m Software Developer
-- ⌨ My main programming language are Golang and Python
+- ⌨ I love coding in golang and python
 - 🧠 Knowlodge: Microservices, Docker, AWS, REST API 
 - 🎓 I am current Computer Engineering in Argentina, Buenos Aires.
 
