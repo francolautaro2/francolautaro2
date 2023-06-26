@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
+
+![ezgif-5-85b28d0ec6](https://github.com/francolautaro2/francolautaro2/assets/69493845/77ee11a2-879d-4cfe-9675-91bcaaa07422)
 
 ### 👋 Hi there, my name is Franco Miño and here I will tell you a little about myself
  
