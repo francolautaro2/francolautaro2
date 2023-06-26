@@ -5,7 +5,7 @@
  
 - 💻 I’m Software Developer
 - ⌨ I love coding with golang and python
-- 🧠 Knowlodge: Microservices, Docker, AWS, REST API 
+- 🧠 Knowlodge: Microservices, Docker, AWS, REST API, MySQL, MongoDB
 - 🎓 I am current Computer Engineering in Argentina, Buenos Aires.
 
 #### - 😄 Contact with me: francolau03@gmail.com
