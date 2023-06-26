@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
+
 ### 👋 Hi there, my name is Franco Miño and here I will tell you a little about myself
  
 - 💻 I’m Software Developer
