@@ -1,16 +1,14 @@
 
 ![ezgif-5-85b28d0ec6](https://github.com/francolautaro2/francolautaro2/assets/69493845/77ee11a2-879d-4cfe-9675-91bcaaa07422)
 
-### 👋 Hi there, my name is Franco Miño and here I will tell you a little about myself
- 
-- 💻 I’m Software Developer
-- ⌨ I love coding with Golang, Python and a little bit in C++
-- 🧠 Knowlodge: Microservices, Docker, AWS, REST API, MySQL, MongoDB
-- 🎓 I am studying Computer Engineering in Argentina, Buenos Aires.
+👋 Welcome!
+I'm Franco Miño, a passionate Software Developer from Buenos Aires, Argentina.
 
-#### - 😄 Contact with me: francolau03@gmail.com
-
-<!---
-francolautaro2/francolautaro2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+💻 Software Developer with a strong background in coding and software engineering.
+⌨ Proficient in: Golang, Python, and C++.
+🧠 Expertise in: Microservices, Docker, AWS, REST APIs, MySQL, and MongoDB.
+🎓 Education: Currently pursuing a degree in Computer Engineering.
+Contact
+📧 Email: francolau03@gmail.com
+Feel free to reach out to me for any collaboration or project inquiries. I look forward to connecting with you!
