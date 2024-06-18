@@ -7,7 +7,7 @@ I'm **Franco Miño**, a passionate **Software Developer** from Buenos Aires, Arg
 
 ### About Me
 
-- 💻 **Software Developer** with a strong background in coding and software engineering.
+- 💻 **Software Developer** with a strong knowledge in coding and software engineering.
 - ⌨ **Proficient in:** Golang, Python, and C++.
 - 🧠 **Expertise in:** Microservices, Docker, AWS, REST APIs, MySQL, and MongoDB.
 - 🎓 **Education:** Currently pursuing a degree in **Computer Engineering**.
